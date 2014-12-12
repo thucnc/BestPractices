@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TncFastCode.Data", "TncFastCode.Data\TncFastCode.Data.csproj", "{CF8DAFD4-FE6E-41C8-AF44-705557723991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TncFastCode.Logging", "TncFastCode.Logging\TncFastCode.Logging.csproj", "{DEF15838-610C-453A-9F03-58EBA4A97C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8DAFD4-FE6E-41C8-AF44-705557723991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8DAFD4-FE6E-41C8-AF44-705557723991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8DAFD4-FE6E-41C8-AF44-705557723991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8DAFD4-FE6E-41C8-AF44-705557723991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF15838-610C-453A-9F03-58EBA4A97C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF15838-610C-453A-9F03-58EBA4A97C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF15838-610C-453A-9F03-58EBA4A97C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF15838-610C-453A-9F03-58EBA4A97C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
