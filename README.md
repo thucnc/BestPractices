@@ -13,5 +13,11 @@
 - Less
 	- [Medium's Coding Guidelines](https://gist.github.com/fat/b27700946c777adacdf4)
 
+- Ruby
+	- [Airbnb's Style Guide](https://github.com/airbnb/ruby)
+
+- Java 
+	- [Google's Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+
 - All
 	- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
